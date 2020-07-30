@@ -1,0 +1,97 @@
+.splitter{
+
+width: 0px;
+height: 25px;
+border: 2px solid var(--unnamed-color-ffffff);
+border: 2px solid #FFFFFF;
+opacity: 0.39;  
+}
+.images {
+top: 887px;
+left: 828px;
+width: 80px;
+height: 30px;
+
+}
+#TGS
+{
+  top: 878px;
+left: 988px;
+width: 70px;
+height: 33px;
+  }
+.center{
+text-align:center;
+  }
+#okta-sign-in.auth-container.main-container {
+    background-color: #fff;
+    border-color: #ddd #ddd #d8d8d8;
+    box-shadow: 0 2px 0 hsla(0,0%,68.6%,.12);
+    border-radius: 10px;
+    font: SemiBold 18px/22px Montserrat;
+letter-spacing: 0px;
+color: #263842;
+}
+#okta-sign-in .auth-org-logo{
+    max-width: 100%;
+    max-height: 100%;
+    width:300px;
+    height:72.33px;
+    display:none;
+  }
+#okta-sign-in.auth-container .okta-sign-in-header {
+    border-bottom-color: #FFFFFF;
+    background-image: url(https://github.com/MarketplaceNew/Images/blob/master/Group%20885@2x.png?raw=true);
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+#okta-sign-in .o-form-head{
+display:none;
+  }
+#okta-sign-in.auth-container .button-primary{
+    display: inline-block;
+    height: 40px;
+    width:300px;
+    line-height: 36px;
+    padding: 0 15px;
+    border: 0px solid;
+    border-radius: 30px;
+    font-size: 14px;
+    box-sizing: border-box;
+    color: #fff;
+    -webkit-appearance: none;
+    background: var(--unnamed-color-0086f8) 0% 0% no-repeat padding-box;
+    background: #0086F8 0% 0% no-repeat padding-box;
+  }
+.buttons2{
+	width: 170px;
+    height: 30px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-0086f8);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #0086F8;
+    border-radius: 30px;
+    opacity: 1;
+    font: Bold var(--unnamed-font-size-18)/var(--unnamed-line-spacing-22) var(--unnamed-font-family-montserrat);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-0086f8);
+    text-align: center;
+    font: Bold 12px Montserrat;
+    letter-spacing: 0px;
+    color: #0086F8;
+    text-transform: uppercase;
+}
+.plaintext1{
+font: SemiBold 22px/27px var(--unnamed-font-family-montserrat);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-ffffff);
+text-align: center;
+font: SemiBold 22px/27px Montserrat;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+  }

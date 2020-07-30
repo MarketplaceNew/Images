@@ -1,0 +1,44 @@
+.button1{
+display: inline-block;
+    height: 40px;
+    width:300px;
+    line-height: 36px;
+    padding: 0 15px;
+    border: 0px solid;
+    border-radius: 30px;
+    font-size: 14px;
+    box-sizing: border-box;
+    color: #fff;
+    -webkit-appearance: none;
+    background: var(--unnamed-color-0086f8) 0% 0% no-repeat padding-box;
+background: #0086F8 0% 0% no-repeat padding-box;
+
+  }
+.widget{
+  border-radius:10px;
+  border-bottom: 0px solid #e34843; 
+  }
+.widget .container {
+    border: 0px solid #ddd;
+    border-bottom: 0;
+    padding: 40px;
+}
+.o-form-title{
+font: Bold var(--unnamed-font-size-30)/var(--unnamed-line-spacing-37) var(--unnamed-font-family-montserrat);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-263842);
+text-align: center;
+font: Bold 30px/37px Montserrat;
+letter-spacing: 0px;
+color: #263842;
+opacity: 1;    }
+.o-form-explain{
+  font: SemiBold 20px/24px var(--unnamed-font-family-montserrat);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-263842);
+text-align: center;
+font: SemiBold 20px/24px Montserrat;
+letter-spacing: 0px;
+color: #263842;
+opacity: 1;
+  }
